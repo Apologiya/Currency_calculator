@@ -1,0 +1,16 @@
+{
+  "name": "unit-integration-tests",
+  "version": "1.0.0",
+  "description": "Проект для модульного та інтеграційного тестування",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@testomatio/reporter": "^2.3.6",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
